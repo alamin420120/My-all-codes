@@ -1,0 +1,60 @@
+color: white;
+    background-image: url("../donate-today-main/images/donation6.jpg");
+    
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;  
+
+
+    .overlay{
+        width: 100%;
+        height:100%
+        font: size 26px;
+        text-align: center;
+        justify-content: center;
+        flex-direction:column;
+        align-items:center;
+        background-color:rgba(0,0,0,0.5);
+    
+    
+    }
+
+
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+
+    
+    
+    margin-right: 25px;
+    background: #0509ed;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding-left: 1210px;
+
+    <div class="container">
+    <div class="banner">
+        <div>
+            <h1 class="banner-title">All Thinks Are <br> Possible If You <br> believe</h1>
+            <p class="banner-description">There are many variations of passages of Lorem Ipsum <br>
+                but the majority have suffered alteration
+                in <br> form, by injected humour, or randomised words</p>
+            <button class="btn">contact Me</button>
+        </div>
+
+    </div>
+</div>
+
+
+
+    
